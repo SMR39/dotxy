@@ -3,8 +3,8 @@ package cmd
 import (
 	"log"
 
-	"github.com/dotxy/tcp"
-	"github.com/dotxy/udp"
+	"github.com/SMR39/dotxy/tcp"
+	"github.com/SMR39/dotxy/udp"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

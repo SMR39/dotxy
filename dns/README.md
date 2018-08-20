@@ -1,7 +1,7 @@
 
 
 # dns
-`import "github.com/dotxy/dns"`
+`import "github.com/SMR39/dotxy/dns"`
 
 * [Overview](#pkg-overview)
 * [Index](#pkg-index)
@@ -15,7 +15,7 @@
 
 
 #### <a name="pkg-files">Package files</a>
-[api.go](/src/github.com/dotxy/dns/api.go) 
+[api.go](/src/github.com/dotxy/dns/api.go)
 
 
 

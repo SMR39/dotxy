@@ -1,7 +1,7 @@
 
 
 # tcp
-`import "github.com/dotxy/tcp"`
+`import "github.com/SMR39/dotxy/tcp"`
 
 * [Overview](#pkg-overview)
 * [Index](#pkg-index)
@@ -15,7 +15,7 @@
 
 
 #### <a name="pkg-files">Package files</a>
-[api.go](/src/github.com/dotxy/tcp/api.go) 
+[api.go](/src/github.com/dotxy/tcp/api.go)
 
 
 

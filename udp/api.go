@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/dotxy/dns"
+	"github.com/SMR39/dotxy/dns"
 )
 
 //ServeUDP will listen to UDP requests and redirects them to the DNS resolver
